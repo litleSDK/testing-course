@@ -3,6 +3,7 @@ description: Testing 1
 template:
   repo: testing-template
   name: testing
+  description: 'testing '
 before:
   - type: createIssue
     title: Welcome!
